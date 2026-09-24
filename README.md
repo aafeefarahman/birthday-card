@@ -1,20 +1,20 @@
-# 🎂 Birthday Card — Choti Di
+# Birthday Card 
 
 A beautiful interactive digital birthday card created with a vintage scrapbook-inspired aesthetic.  
 Designed as a heartfelt digital experience for celebrating a special sister. 💌
 
-## ✨ Features
+## Features
 
-- 🎀 Vintage scrapbook-inspired design
-- 🌸 Botanical and floral elements
-- 💌 Interactive birthday letter
-- ✍️ Handwritten-style typography
-- 📸 Polaroid-style photo sections
-- 🕯️ Wax seal and vintage paper effects
-- 🎉 Confetti animation
-- 🎵 Audio/music support
-- 📱 Responsive mobile-friendly design
-- 💖 Personalized "Happy Birthday Choti Di" message
+- Vintage scrapbook-inspired design
+- Botanical and floral elements
+- Interactive birthday letter
+- Handwritten-style typography
+- Polaroid-style photo sections
+- Wax seal and vintage paper effects
+- Confetti animation
+- Audio/music support
+- Responsive mobile-friendly design
+- Personalized "Happy Birthday Choti Di" message
 
 ## 🛠️ Tech Stack
 
